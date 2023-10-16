@@ -1,0 +1,11 @@
+Vector original: [1, 2, 3, 4, 1, 22, 2]
+Vector original: 1241552
+Vector original: 23129
+
+La suma del vector es: 26Vector original: 2114276
+
+La suma del vector es: 95Vector original: 12322547
+
+La suma del vector es: 53Vector original: 12445784795357823456
+
+La suma del vector es: 198
